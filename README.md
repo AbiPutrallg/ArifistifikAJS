@@ -1,8 +1,7 @@
 # ArifistifikAJS
-Line Bot AntiJS
+#   Line Bot AntiJS
 
-
-MODUL² YANG PERLU DI INSTALL
+#   MODUL² YANG PERLU DI INSTALL
 
 termux-setup-storage
 
@@ -24,23 +23,23 @@ pkg install pip
 
 pip install --upgrade pip
 
-pip2 install rsa
+pip3 install rsa
 
-pip2 install thrift==0.11.0
+pip3 install thrift==0.11.0
 
-pip2 install requests
+pip3 install requests
 
-pip2 install bs4
+pip3 install bs4
 
-pip2 install gtts
+pip3 install gtts
 
-pip2 install beautifulsoup
+pip3 install beautifulsoup
 
-pip2 install googletrans
+pip3 install googletrans
 
-pip2 install pafy
+pip3 install pafy
 
-pip2 install humanfriendly
+pip3 install humanfriendly
 
 pip3 install goslate
 
@@ -53,3 +52,8 @@ pip3 install tweepy
 pkg update
 
 pkg upgrade
+
+
+#   Spesial Thank's To ALLAH S.W.T
+#   Thank's To Arifistifik
+#   Editing By Abiputrallg
